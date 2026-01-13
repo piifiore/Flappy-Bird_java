@@ -1,2 +1,2 @@
 # Flappy-Bird_java
-FlabbyBird re-created in java
+FlappyBird re-created in java
